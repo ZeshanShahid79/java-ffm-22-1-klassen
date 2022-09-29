@@ -28,6 +28,8 @@ public class Main {
         zeshan.setGender("Male");
         zeshan.setAge(29);
         System.out.println("Zeshan´s age is "+zeshan.getAge());
+        System.out.println(zeshan);
+
 
     }
 

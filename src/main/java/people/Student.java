@@ -41,9 +41,9 @@ public class Student {
         this.age = age;
     }
 
-    // toString um alle werte auszugeben als string
-//public String toString(){
-//        return programmingLanguage+"\n" + age+"\n" + gender;
-//}
+   //  toString um alle werte als string auszugeben ansosnten kommt nur ein hascode raus
+public String toString(){
+        return programmingLanguage+"\n" + age+"\n" + gender;
+}
 
 }
